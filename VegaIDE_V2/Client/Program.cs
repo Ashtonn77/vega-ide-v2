@@ -27,6 +27,7 @@ namespace VegaIDE_V2.Client
             builder.Services.AddApiAuthorization();
 
             await builder.Build().RunAsync();
+
         }
     }
 }

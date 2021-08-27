@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VegaIDE_V2.Server", "VegaIDE_V2\Server\VegaIDE_V2.Server.csproj", "{3C5F393C-75B5-40EF-8C20-733E12609123}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VegaIDE_V2.Server", "VegaIDE_V2\Server\VegaIDE_V2.Server.csproj", "{3C5F393C-75B5-40EF-8C20-733E12609123}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VegaIDE_V2.Client", "VegaIDE_V2\Client\VegaIDE_V2.Client.csproj", "{75F7930D-9B63-4846-8B45-E8AC6B48F8CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VegaIDE_V2.Client", "VegaIDE_V2\Client\VegaIDE_V2.Client.csproj", "{75F7930D-9B63-4846-8B45-E8AC6B48F8CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VegaIDE_V2.Shared", "VegaIDE_V2\Shared\VegaIDE_V2.Shared.csproj", "{FEE70722-9A2C-4889-9F63-3C47F53E31AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VegaIDE_V2.Shared", "VegaIDE_V2\Shared\VegaIDE_V2.Shared.csproj", "{FEE70722-9A2C-4889-9F63-3C47F53E31AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

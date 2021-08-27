@@ -87,6 +87,13 @@ using VegaIDE_V2.Client.Shared;
 #line hidden
 #nullable disable
 #nullable restore
+#line 12 "C:\Users\Ashton\OneDrive - Nebula\course-work\VegaIDE_V2\VegaIDE_V2\Client\_Imports.razor"
+using System.IO;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 2 "C:\Users\Ashton\OneDrive - Nebula\course-work\VegaIDE_V2\VegaIDE_V2\Client\Pages\FetchData.razor"
 using Microsoft.AspNetCore.Authorization;
 

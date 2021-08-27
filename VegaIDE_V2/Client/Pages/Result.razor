@@ -1,0 +1,23 @@
+﻿@page "/result"
+@inject HttpClient HttpClient
+
+@if (submission == null)
+{
+    <h3>Loading ...</h3>
+}
+else
+{
+    <h1>Here is your output:</h1>
+    <p>@submission.Output</p>
+}
+
+@code {
+
+    Submission submission;
+
+    protected async override Task OnInitializedAsync()
+    {
+        submission = await HttpClient.GetFromJsonAsync<Submission>("api/editor/code");
+    }
+
+}

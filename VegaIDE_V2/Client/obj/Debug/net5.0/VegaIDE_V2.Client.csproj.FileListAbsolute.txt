@@ -885,3 +885,9 @@ C:\Users\Ashton\OneDrive - Nebula\course-work\VegaIDE_V2\VegaIDE_V2\Client\obj\D
 C:\Users\Ashton\OneDrive - Nebula\course-work\VegaIDE_V2\VegaIDE_V2\Client\obj\Debug\net5.0\build-gz\F8pDjmuT.gz
 C:\Users\Ashton\OneDrive - Nebula\course-work\VegaIDE_V2\VegaIDE_V2\Client\obj\Debug\net5.0\build-gz\qOcKKWIV.gz
 C:\Users\Ashton\OneDrive - Nebula\course-work\VegaIDE_V2\VegaIDE_V2\Client\obj\Debug\net5.0\blazor.satelliteasm.props
+C:\Users\Ashton\OneDrive - Nebula\course-work\VegaIDE_V2\VegaIDE_V2\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Ide.razor.g.cs
+C:\Users\Ashton\OneDrive - Nebula\course-work\VegaIDE_V2\VegaIDE_V2\Client\obj\Debug\net5.0\Razor\Pages\Ide.razor.g.cs
+C:\Users\Ashton\OneDrive - Nebula\course-work\VegaIDE_V2\VegaIDE_V2\Client\obj\Debug\net5.0\RazorDeclaration\Pages\FrontEndIde.razor.g.cs
+C:\Users\Ashton\OneDrive - Nebula\course-work\VegaIDE_V2\VegaIDE_V2\Client\obj\Debug\net5.0\Razor\Pages\FrontEndIde.razor.g.cs
+C:\Users\Ashton\OneDrive - Nebula\course-work\VegaIDE_V2\VegaIDE_V2\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Result.razor.g.cs
+C:\Users\Ashton\OneDrive - Nebula\course-work\VegaIDE_V2\VegaIDE_V2\Client\obj\Debug\net5.0\Razor\Pages\Result.razor.g.cs

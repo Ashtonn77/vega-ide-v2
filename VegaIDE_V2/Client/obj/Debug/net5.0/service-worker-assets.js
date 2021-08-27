@@ -5,7 +5,7 @@
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     },
     {
-      "hash": "sha256-MCIA8aS9RD+NDJz3q3kFxqdrh+n7VfBuMb1SyMs0B6g=",
+      "hash": "sha256-w9q2YmCNpAhq0pPdix6GLE1DxywVzQNYhzvglPLq7vg=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1109,19 +1109,19 @@
       "url": "_framework\/dotnet.5.0.9.js"
     },
     {
-      "hash": "sha256-PWRjzaW1bsb9yJqx5TwRH2GL33AHl8h+rGHq4Ik\/BAg=",
+      "hash": "sha256-b4pcFS8iT3VZ1kg2GAaaFKm701uPiu3dCyn2N4E7XBU=",
       "url": "_framework\/VegaIDE_V2.Shared.dll"
     },
     {
-      "hash": "sha256-m0FUUSWXapNFjTlVFawa1PnbjiaB3n028ZOVt14l7JQ=",
+      "hash": "sha256-WMubSh2u16gEI8w5lib2LOKcZkL\/jOnZTO9P\/+9cb+E=",
       "url": "_framework\/VegaIDE_V2.Shared.pdb"
     },
     {
-      "hash": "sha256-s+8Y9XDxJG6KIUjeqofpxLM8d6vR8xXjWmSbUPwZg+U=",
+      "hash": "sha256-VY1CwYL8F8uMcQ5ZGutBheI3j62uo\/tA4YCFUTF0UkI=",
       "url": "_framework\/VegaIDE_V2.Client.dll"
     },
     {
-      "hash": "sha256-5LO+rO\/WA9fTMqls0P\/xzWogW3wFZVjve2fx8\/fOX7Y=",
+      "hash": "sha256-dZ2SNqztinBrLDy6G+ENl2yX48OcunQWtzZKVj0fK9Q=",
       "url": "_framework\/VegaIDE_V2.Client.pdb"
     },
     {
@@ -2229,11 +2229,11 @@
       "url": "_framework\/dotnet.5.0.9.js.gz"
     },
     {
-      "hash": "sha256-UQIja5rKgMlF\/UVlyeZSk6dzErqULzUD5dJ8xrkT7hA=",
+      "hash": "sha256-mXVYVOz5ZrQhw\/JOl6MrWdlysvnPgh0\/MILlcV8kmqI=",
       "url": "_framework\/VegaIDE_V2.Shared.dll.gz"
     },
     {
-      "hash": "sha256-8aM9R9K90X6h+KPDW4OzrEh071mAs7dvAQxjBxAZQAc=",
+      "hash": "sha256-PgbLl0B4um4LmxlV0SX6RqCyCF79+v3wC6mBc1Z7lf0=",
       "url": "css\/app.css"
     },
     {
@@ -2281,16 +2281,16 @@
       "url": "css\/open-iconic\/README.md"
     },
     {
-      "hash": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
-      "url": "favicon.ico"
-    },
-    {
       "hash": "sha256-IpHFcQvs03lh6W54zoeJRG1jW+VnGmwymzxLoXtKX7Y=",
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-WRw18dvwhyiDp1P1ZT4QllEEC8U+KOfAJZxXfNbiGpk=",
+      "hash": "sha256-2ij8UfyonEBhDvcYgZjm\/64UrdpvI4XR1XMgtco1eKo=",
       "url": "index.html"
+    },
+    {
+      "hash": "sha256-YBOzACoeqC\/SxtsxfCnnqGs4XN7vIxp4RSUc3aMm7gU=",
+      "url": "js\/interop.js"
     },
     {
       "hash": "sha256-XkiPIGukwHhTbtLv8Lp0\/NvflnBbLw8+0MxsWq8HMc8=",
@@ -2305,5 +2305,5 @@
       "url": "VegaIDE_V2.Client.bundle.scp.css"
     }
   ],
-  "version": "3TmUPe85"
+  "version": "dXHEMfgZ"
 };

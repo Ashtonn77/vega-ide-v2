@@ -223,12 +223,13 @@
       "mscorlib.dll": "sha256-9AZ7YsJz\/p2gr4E0EQXdHBqwDxoXqtzxhqC6aRsa2K8=",
       "netstandard.dll": "sha256-yOOty6BTX3e57YAEHK5a4nku\/lj0vi7jg\/eQZAjbDQk=",
       "System.Private.CoreLib.dll": "sha256-rraBQp6NevIQiELPVfDFDl5pv9QVJqCiZhB5bkpiZ88=",
-      "VegaIDE_V2.Shared.dll": "sha256-PWRjzaW1bsb9yJqx5TwRH2GL33AHl8h+rGHq4Ik\/BAg=",
-      "VegaIDE_V2.Client.dll": "sha256-s+8Y9XDxJG6KIUjeqofpxLM8d6vR8xXjWmSbUPwZg+U="
+      "VegaIDE_V2.Shared.dll": "sha256-b4pcFS8iT3VZ1kg2GAaaFKm701uPiu3dCyn2N4E7XBU=",
+      "VegaIDE_V2.Client.dll": "sha256-VY1CwYL8F8uMcQ5ZGutBheI3j62uo\/tA4YCFUTF0UkI="
     },
     "lazyAssembly": null,
     "pdb": {
-      "VegaIDE_V2.Client.pdb": "sha256-5LO+rO\/WA9fTMqls0P\/xzWogW3wFZVjve2fx8\/fOX7Y="
+      "VegaIDE_V2.Shared.pdb": "sha256-WMubSh2u16gEI8w5lib2LOKcZkL\/jOnZTO9P\/+9cb+E=",
+      "VegaIDE_V2.Client.pdb": "sha256-dZ2SNqztinBrLDy6G+ENl2yX48OcunQWtzZKVj0fK9Q="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-L2vkcKzmXJtf+J7db5TbDMBckrgqJ5qc0ZzVIdRlm0I=",

@@ -230,3 +230,5 @@ C:\Users\Ashton\OneDrive - Nebula\course-work\VegaIDE_V2\VegaIDE_V2\Server\obj\D
 C:\Users\Ashton\OneDrive - Nebula\course-work\VegaIDE_V2\VegaIDE_V2\Server\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\Ashton\OneDrive - Nebula\course-work\VegaIDE_V2\VegaIDE_V2\Server\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
 C:\Users\Ashton\OneDrive - Nebula\course-work\VegaIDE_V2\VegaIDE_V2\Server\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Ashton\OneDrive - Nebula\course-work\VegaIDE_V2\VegaIDE_V2\Server\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register - Copy.cshtml.g.cs
+C:\Users\Ashton\OneDrive - Nebula\course-work\VegaIDE_V2\VegaIDE_V2\Server\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login - Copy.cshtml.g.cs
